@@ -1,0 +1,29 @@
+Compiling 1 files with 0.8.19
+Solc 0.8.19 finished in 1.24s
+Compiler run [32msuccessful![0m
+[32mScript ran successfully.[0m
+[33m
+EIP-3855 is not supported in one or more of the RPCs used.
+Unsupported Chain IDs: 31337.
+Contracts deployed with a Solidity version equal or higher than 0.8.20 might not work properly.
+For more information, please see https://eips.ethereum.org/EIPS/eip-3855[0m
+
+==========================
+
+Chain 31337
+
+Estimated gas price: 5 gwei
+
+Estimated total gas used for script: 1748204
+
+Estimated amount required: 0.00874102 ETH
+
+==========================
+
+###
+Finding wallets for all the necessary addresses...
+
+Transactions saved to: /Users/panwei/Desktop/code/Youtube/Solidity/Foundry/Nader-Dabit/Foundry-workshop/broadcast/ERC721.s.sol/31337/run-latest.json
+
+Sensitive values saved to: /Users/panwei/Desktop/code/Youtube/Solidity/Foundry/Nader-Dabit/Foundry-workshop/cache/ERC721.s.sol/31337/run-latest.json
+

@@ -12,3 +12,11 @@ docs/
 
 # Dotenv file
 .env
+
+# comments
+*.js //*
+*.js /* */
+*.html <!-- -->
+*.py #
+*.sol /* */
+*.sol //*
