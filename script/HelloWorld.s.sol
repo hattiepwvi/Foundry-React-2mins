@@ -34,7 +34,9 @@ import {HelloWorld} from "src/HelloWorld.sol";
  * 4、安装包: 安装包--> 映射（让 IDE 编译器知道包的位置）
  *    1）OpenZeppelin
  *       - forge install OpenZeppelin/openzeppelin-contracts
- *          - 没有 git history 无法使用 forge install 
+ *          - git history 不是空时（no commit）无法使用 forge install  （要提交所有修改后再安装，或删掉修改变成空文件再安装）
+ *                - git add . 
+ *                - git commit -m 'initial commit'
  *
  */
 
