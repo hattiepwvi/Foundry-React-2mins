@@ -37,6 +37,9 @@ import {HelloWorld} from "src/HelloWorld.sol";
  *          - git history 不是空时（no commit）无法使用 forge install  （要提交所有修改后再安装，或删掉修改变成空文件再安装）
  *                - git add . 
  *                - git commit -m 'initial commit'
+ *    2) 创建 remapping.txt 文件（包的映射位置路径）
+ *      - forge remappings
+ *      - 这样可以导入时可以直接使用at导入路径
  *
  */
 
